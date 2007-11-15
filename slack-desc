@@ -1,0 +1,11 @@
+scons: SCons (A software construction tool)
+scons:
+scons: SCons is a software construction tool -- that is, a superior
+scons: alternative to the classic "Make" build tool that we all know and
+scons: love.
+scons: SCons is implemented as a Python script and set of modules, and
+scons: SCons "configuration files" are actually executed as Python scripts.
+scons: This gives SCons many powerful capabilities not found in other
+scons: software build tools. 
+scons:
+scons: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
