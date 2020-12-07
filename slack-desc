@@ -8,4 +8,4 @@ scons: SCons "configuration files" are actually executed as Python scripts.
 scons: This gives SCons many powerful capabilities not found in other
 scons: software build tools. 
 scons:
-scons: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
+scons: Packaged by Georgi D. Sotirov <gdsotirov@gmail.com>
